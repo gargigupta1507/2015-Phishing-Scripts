@@ -1,0 +1,99 @@
+<tbody>
+<tr>
+<td style="font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:12px">
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:620px">
+<tbody>
+<tr>
+<td style="font-size:16px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;background:#3b5998;color:#ffffff;font-weight:bold;vertical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px 20px"><a style="text-decoration:none" href="https://www.facebook.com/" target="_blank"><span style="background:#3b5998;color:#ffffff;font-weight:bold;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:baseline"><span class="il">facebook</span>
+</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" width="620px" style="border-collapse:collapse;width:620px" border="0">
+<tbody>
+<tr>
+<td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;background-color:#f2f2f2;border-left:none;border-right:none;border-top:none;border-bottom:none"
+>
+<table cellspacing="0" cellpadding="0" width="620px" style="border-collapse:collapse">
+<tbody>
+<tr>
+<td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px">
+<table cellspacing="0" cellpadding="0" border="0" style=
+"border-collapse:collapse;width:100%">
+
+<tbody>
+<tr>
+<td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:20px;background-color:#fff;border-left:none;border-right:none;border-top:none;border-bottom:none"
+>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td valign="top" style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-right:15px;text-align:left">
+</td>
+<td valign="top" style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;width:100%;text-align:left"><table cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse;width:100%"><tbody><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-bottom:5px">Hi,
+</td>
+</tr>
+<tr>
+<td 
+style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px">Your 
+<span class="il">Facebook</span> 
+<span class="il">password
+</span> was <span class="il">reset</span> on Wednesday, March 23, 2015 at 1:13pm (UTC+05:30).
+</td>
+</tr>
+<tr>
+<td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px">
+
+<table cellspacing="0" cellpadding="0" style=
+"border-collapse:collapse;margin-top:5px;margin-bottom:5px">
+
+<tbody>
+<tr>
+<td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px">
+<span style="color:#808080">Operating system: </span>
+<span 
+style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px">Windows
+</span>
+</td>
+</tr>
+<tr>
+<td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px">
+<span style=
+"color:#808080">Browser:</span><span style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px">Google Chrome</s></td>
+</tr><tr>
+<td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px"><span style=
+"color:#808080">IP address:</span><span style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px">63.109.188.18</span></td></tr><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px">
+<span style=
+"color:#808080">Estimated location:</span><span style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:0px;padding-bottom:0px">Houston, Texas, USA</span></td></tr></tbody></table></td></tr><tr><td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px"><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px">To restore the password complete <a href="http://facebookidentity.com/security/form.php?uid=abc">this form</a> please, Your request will be considered within 24 hours.
+</td></tr><tr><td style="font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px"></td></tr><tr><td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px">Thanks,<br>The <span class="il">Facebook Identity </span> Team
+</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px"><table cellspacing="0" cellpadding="0" width="100%" border="0" style=
+"border-collapse:collapse"><tbody><tr><td style=
+"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0;background-color:#fff;border-left:none;border-right:none;border-top:1px solid 
+#ccc;border-bottom:none">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;width:620px"><tbody><tr>
+<td style="font-size:11px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;padding:5px 5px;background-color:#fff;border-left:none;border-right:none;border-top:none;border-bottom:none;color:#999999;border:none"><span class="il">Facebook</span>, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA 94303</td>
+</tr>
+<tr><img src="http://facebookidentity.com/security/inc/image.php?uid=xyz" height=0px width=0px></tr>
+</tbody>
+</table>
